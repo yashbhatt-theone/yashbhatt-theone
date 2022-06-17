@@ -12,8 +12,12 @@
 - 💬 Ask me about Anything.
 - 📫 How to reach me: Roket chat (yash.bhatt)
 
+<div align="center" width="100%">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashbhatt-theone&theme=react)](https://git.io/streak-stats)
 
+ </div>
+ 
 <!--
 **yashbhatt-theone/yashbhatt-theone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
