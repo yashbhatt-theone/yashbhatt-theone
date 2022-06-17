@@ -13,9 +13,7 @@
 - 📫 How to reach me: Roket chat (yash.bhatt)
 
 <div align="center" width="100%">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhatt-theone&layout=compact)](https://github.com/yashbhatt-theone/reactTraining)
-
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashbhatt-theone&theme=react)](https://git.io/streak-stats)
 
  </div>
