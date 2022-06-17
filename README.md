@@ -9,9 +9,6 @@
 
 📫 How to reach me: Roket chat (yash.bhatt)
 
----
-[![](https://visitcount.itsvg.in/api?id=yashbhatt-theone&icon=4&color=12)](https://visitcount.itsvg.in)
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-bhatt-ba33171bb) 
 
@@ -28,3 +25,6 @@
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=yashbhatt-theone&icon=4&color=12)](https://visitcount.itsvg.in)
