@@ -1,28 +1,25 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2> 
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+# 💫About Me :
+🔭 I’m currently working on React & Vue.
+🌱 I’m currently learning React version 16.
+👀 I’m interested in coding & development
+💬 Ask me about Anything.
+📫 How to reach me: Roket chat (yash.bhatt)
 
-### Hi there Welcome👋
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-bhatt-ba33171bb) 
 
-- 🔭 I’m currently working on React & Vue.
-- 🌱 I’m currently learning React version 16.
-- 👀 I’m interested in coding & development
-- 💬 Ask me about Anything.
-- 📫 How to reach me: Roket chat (yash.bhatt)
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=yashbhatt-theone&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashbhatt-theone&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhatt-theone&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center" width="100%">
- 
- ![YashBhatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashbhatt-theone&hide=issues&show_icons=true)
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashbhatt-theone&theme=react)](https://git.io/streak-stats)
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- </div>
- 
- Made with :heart: and JavaScript.
- Thanks! :heart:
- 
-<!--
-**yashbhatt-theone/yashbhatt-theone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=yashbhatt-theone&icon=4&color=12)](https://visitcount.itsvg.in)
