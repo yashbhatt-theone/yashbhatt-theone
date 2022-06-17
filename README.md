@@ -13,6 +13,11 @@
 - 📫 How to reach me: Roket chat (yash.bhatt)
 
 <div align="center" width="100%">
+ 
+ 
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+```
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashbhatt-theone&theme=react)](https://git.io/streak-stats)
 
