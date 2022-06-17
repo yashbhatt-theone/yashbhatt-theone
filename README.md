@@ -14,6 +14,8 @@
 
 <div align="center" width="100%">
  
+ ![YashBhatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashbhatt-theone&hide=issues&show_icons=true)
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashbhatt-theone&theme=react)](https://git.io/streak-stats)
 
  </div>
