@@ -14,8 +14,6 @@
 
 <div align="center" width="100%">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashbhatt-theone&repo=github-readme-stats&show_owner=true)](https://github.com/yashbhatt-theone/yashbhatt-theone)
- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashbhatt-theone&theme=react)](https://git.io/streak-stats)
 
  </div>
