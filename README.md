@@ -1,8 +1,12 @@
 # 💫About Me :
 🔭 I’m currently working on React & Vue.
+
 🌱 I’m currently learning React version 16.
+
 👀 I’m interested in coding & development
+
 💬 Ask me about Anything.
+
 📫 How to reach me: Roket chat (yash.bhatt)
 
 ## 🌐Socials
